@@ -1,0 +1,7 @@
+Tools & Technologies
+
+IBM Watson Assistant
+IBM Cloud
+HTML, CSS (for website UI)
+JSON / CSV (for training data)
+Web Widget / Slack for testing
